@@ -11,6 +11,10 @@
 	<p>test3 회사에서 논노난나~~</p>
 	<h3>user2가 일한 내용,,,</h3>
 	<a href="#">링크 추가</a>
+<<<<<<< HEAD
 	<p>잃어버린 하루를 다시 복구한다~~?</p>
+=======
+	<a href="#">링크 열심히 또 추가추가,,,,개미는 뚠뚠,,,,</a>
+>>>>>>> branch 'master' of https://github.com/mandooman126/testRepository.git
 </body>
 </html>
