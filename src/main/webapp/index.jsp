@@ -8,6 +8,7 @@
 </head>
 <body>
 	<h1>하이하이~GIT TestProject</h1>
-	<p>내용 추가</p>
+	<p>사리 추가</p>
+	<p>사리 또 추가</p>
 </body>
 </html>
